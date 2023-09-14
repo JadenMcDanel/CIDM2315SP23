@@ -41,7 +41,7 @@ class Program
             Console.WriteLine("N is non-prime");
         }
         else{
-            Console.WriteLine("N is a prime");
+            Console.WriteLine("N is prime");
         }
              
     }
