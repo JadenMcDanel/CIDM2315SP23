@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-namespace HelloWorld;
+namespace Homework4Part3;
 
 class Program
 {
