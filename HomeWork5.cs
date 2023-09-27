@@ -10,7 +10,7 @@ class Program
             int c = Convert.ToInt32(Console.ReadLine());
             int d = Convert.ToInt32(Console.ReadLine());
             int LG = Two(a,b,c,d);
-            Console.WriteLine($"a = {a} b = {b}; c = {c}; d = {d}");
+            Console.WriteLine($"a = {a}; b = {b}; c = {c}; d = {d}");
             Console.WriteLine($"The largest number is: {LG}");
     }
    static int Two(int a, int b, int c, int d){
